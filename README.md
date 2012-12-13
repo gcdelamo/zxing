@@ -3,4 +3,4 @@ zxing
 
 Code with examples of use library open source zxing
 
-@autor: Gustavo Carpintero del Amo 
+@author: Gustavo Carpintero del Amo 
