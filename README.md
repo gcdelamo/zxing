@@ -1,9 +1,9 @@
 zxing
 =====
 
-Code with examples of use library open source zxing</br>
+Code with examples of use library open source zxing\n
 
-@author: Carpintero del Amo, Gustavo</BR>
+@author: Carpintero del Amo, Gustavo\n
 @about me: 
-  http://www.worldindev.com</BR>
-  http://www.nomaslicencias.com</BR>
+  http://www.worldindev.com\n
+  http://www.nomaslicencias.com\n
